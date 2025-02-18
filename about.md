@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-<a id="page-top"></a>
+## Table of Contents
 
-<details>
-  <summary>Table of Contents</summary>
-
+- [Table of Contents](#table-of-contents)
 - [Bio](#bio)
 - [Certification](#certification)
 - [Main Tools](#main-tools)
@@ -22,13 +20,9 @@ permalink: /about/
 
 自然言語処理に興味がある国公立大学４年。
 
-<p align="right">(<a href="#page-top">back to top</a>)</p>
-
 ## Certification
 
 - TOEIC® Listening & Reading Test: 830 / 990 (2023/11/19受験)
-
-<p align="right">(<a href="#page-top">back to top</a>)</p>
 
 ## Main Tools
 
@@ -56,8 +50,6 @@ permalink: /about/
   - 趣味でやっていますが、かれこれ5年以上の付き合いです。
   - アイコンのキャラはMMDのアバターに由来しています。
 
-<p align="right">(<a href="#page-top">back to top</a>)</p>
-
 ## Previous Main Tools
 
 - rye
@@ -67,8 +59,6 @@ permalink: /about/
   - 授業や勉強会、ミーティングといった使い捨てのスライドは大概これで作っていました。
   - だんだんめんどくさくなってしまい、今はいざというときに使えるような技術とテーマだけが残っています。
     - この時の表や注釈のデザインが気に入ったので、パワポに出戻りしたときに逆輸入していたり。
-
-<p align="right">(<a href="#page-top">back to top</a>)</p>
 
 ## Recommended Freeware
 
@@ -82,11 +72,7 @@ permalink: /about/
   - Lhaplusレベルで何でも解凍したいわけではなかったので愛用。
   - 忘れた頃に更新されていて驚いた記憶。
 
-<p align="right">(<a href="#page-top">back to top</a>)</p>
-
 ## Contact
 
 GitHub: [@Thinqat1985731](https://github.com/Thinqat1985731)<br>
 Hugging Face: [@Thinqat1985731](https://huggingface.co/Thinqat1985731)
-
-<p align="right">(<a href="#page-top">back to top</a>)</p>
