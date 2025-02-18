@@ -14,8 +14,6 @@ permalink: /about/
 - [Recommended Freeware](#recommended-freeware)
 - [Contact](#contact)
 
-</details>
-
 ## Bio
 
 自然言語処理に興味がある国公立大学４年。
