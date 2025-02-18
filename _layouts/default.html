@@ -136,7 +136,7 @@
         {%- if site.plainwhite.social_links.huggingface -%}
         <a href="https://huggingface.co/{{ site.plainwhite.social_links.Huggingface }}" target="_blank">
           <li>
-            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/14053d26005b9afe3ce0e020862ed5ab2335f989/assets/Hugging%20face/High%20Contrast/hugging_face_high_contrast.svg" alt="Hugging Face" width="32" height="32" />
+            <i class="icon-stack-overflow"></i>
           </li>
         </a>
         {%- endif -%}
@@ -167,7 +167,9 @@
       {{ footer }}
     </footer>
   </main>
-
+  {% if site.plainwhite.dark_mode %}
+  <script type="text/javascript" src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>
+  {% endif %}
   {%- if site.plainwhite.analytics_id -%}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
   <script>
