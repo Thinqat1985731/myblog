@@ -4,31 +4,71 @@ title: About
 permalink: /about/
 ---
 
+<a id="page-top"></a>
+
+<details>
+  <summary>Table of Contents</summary>
+
+- [Bio](#bio)
+- [Certification](#certification)
+- [Main Tools](#main-tools)
+- [Previous Main Tools](#previous-main-tools)
+- [Recommended Freeware](#recommended-freeware)
+- [Contact](#contact)
+
+</details>
+
 ## Bio
 
 自然言語処理に興味がある国公立大学４年。
+
+<p align="right">(<a href="#page-top">back to top</a>)</p>
 
 ## Certification
 
 - TOEIC® Listening & Reading Test: 830 / 990 (2023/11/19受験)
 
+<p align="right">(<a href="#page-top">back to top</a>)</p>
+
 ## Main Tools
 
 - Git/Github
-  - 意外と使い始めは最近の新参者です。
-- rye
-  - poetryから移行して何とか慣れようとしています。
-- Jekyll
-  - このブログの元締め。Rubyがちゃんと動くまでが割と大変だったり。
-- VSCode
-  - LatexはOverleafではなくVScode上でできる形にしています。
+  - それなりの付き合いになったような気がします。
+- jekyll
+  - このブログの元締め。一度next.jsに乗り換えましたが、あまりにKatexが入らないのとバージョンアップでトラブって諦めて出戻りしました。
+  - ダークテーマ適用できるのもうれしいですね。
+- Codacy
+  - 最近使い始めたコード解析ツール。
+  - Pull requestも大丈夫か解析してくれる模様（今のところDependabotからのPull requestにしか適用したことがありませんが...）
+  - 多彩なlinterを駆使してVisual Stadio Code上で捉えきれなかった部分を指摘してくれることがあり、とても助かっています。
+- Phind
+  - 論文書くときに色々聞きまくったことでドはまりしてしまい、もはやマブダチ。
+  - コードから質問までいろいろお世話になっています。
+  - ChatGPTは未だにOpenAIのアカウントすら作っていません。
+- Visual Stadio Code
+  - LatexはOverleafではなくVisual Stadio Code上でできる形にしています。
 - Slack
 - Notion
   - 調べた言葉を書いたり、ミーティングの資料作ったり。
+  - 今は（調べた言葉を書くのに加えて）予定の整理と論文の記録が主。
 - MMD (MikuMikuDance)
 - Pmxeditor
   - 趣味でやっていますが、かれこれ5年以上の付き合いです。
   - アイコンのキャラはMMDのアバターに由来しています。
+
+<p align="right">(<a href="#page-top">back to top</a>)</p>
+
+## Previous Main Tools
+
+- rye
+  - poetryから移行してしばらく経ちました。uvとの統合がどうなるか。
+  - 最近ではたま～に何か試したいなぁってときに呼び出されるくらいになってしまいました。
+- Marp
+  - 授業や勉強会、ミーティングといった使い捨てのスライドは大概これで作っていました。
+  - だんだんめんどくさくなってしまい、今はいざというときに使えるような技術とテーマだけが残っています。
+    - この時の表や注釈のデザインが気に入ったので、パワポに出戻りしたときに逆輸入していたり。
+
+<p align="right">(<a href="#page-top">back to top</a>)</p>
 
 ## Recommended Freeware
 
@@ -37,11 +77,16 @@ permalink: /about/
   - 流石に印刷関係はAcrobat Readerですが、自分で見たり人に見せるときにはこれ一択。
 - お～瑠璃ね～む
   - ファイルの名前一括でいじるやつ。2019年で更新が止まっていますが、普通に動いてくれます。
-- Archive Decoder <img src="https://forest.watch.impress.co.jp/library/img/file/10820/icon.gif" height="32" width="32" alt="archive decoder icon">
-  - 持ち運び可能な最小限の解凍ソフト。Lhaplusレベルで何でも解凍したいわけではなかったので愛用。
+- Archive Decoder <img src="https://forest.watch.impress.co.jp/library/img/file/10820/icon.gif" height="50px" width="50px" alt="archive decoder icon">
+  - 持ち運び可能な最小限の解凍ソフト。
+  - Lhaplusレベルで何でも解凍したいわけではなかったので愛用。
   - 忘れた頃に更新されていて驚いた記憶。
+
+<p align="right">(<a href="#page-top">back to top</a>)</p>
 
 ## Contact
 
 GitHub: [@Thinqat1985731](https://github.com/Thinqat1985731)<br>
 Hugging Face: [@Thinqat1985731](https://huggingface.co/Thinqat1985731)
+
+<p align="right">(<a href="#page-top">back to top</a>)</p>
