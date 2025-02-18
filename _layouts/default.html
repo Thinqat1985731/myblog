@@ -158,6 +158,17 @@
       </p>
       <img src="https://validator.w3.org/feed/images/valid-atom.png" alt="[Valid Atom 1.0]" title="Validate my Atom 1.0 feed" /></a>
       {% endcapture %}
+      {%- if site.plainwhite.dark_mode -%}
+      <div class="about-footer {{condensed_class}}">
+        <p>Dark Mode
+          <i class="icon-moon"></i>
+          <label class="switch">
+            <input type="checkbox" class="dark-mode-toggle">
+            <span class="slider round" onclick="toggleDarkMode()"></span>
+          </label>
+        </p>
+      </div>
+      {%- endif -%}
       {{ footer }}
     </section>
     <section class="content">
