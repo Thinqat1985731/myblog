@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
-- [Table of Contents](#table-of-contents)
 - [Bio](#bio)
 - [Certification](#certification)
 - [Main Tools](#main-tools)
@@ -16,11 +15,11 @@ permalink: /about/
 
 ## Bio
 
-自然言語処理に興味がある国公立大学４年。
+自然言語処理に興味がある国公立大学大学院１年。
 
 ## Certification
 
-- TOEIC® Listening & Reading Test: 830 / 990 (2023/11/19受験)
+- TOEIC® Listening & Reading Test: 825 / 990 (2023/11/19受験)
 
 ## Main Tools
 
@@ -34,7 +33,6 @@ permalink: /about/
   - Pull requestも大丈夫か解析してくれる模様（今のところDependabotからのPull requestにしか適用したことがありませんが...）
   - 多彩なlinterを駆使してVisual Stadio Code上で捉えきれなかった部分を指摘してくれることがあり、とても助かっています。
 - Phind
-  - 論文書くときに色々聞きまくったことでドはまりしてしまい、もはやマブダチ。
   - コードから質問までいろいろお世話になっています。
   - ChatGPTは未だにOpenAIのアカウントすら作っていません。
 - Visual Stadio Code
