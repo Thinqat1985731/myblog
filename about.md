@@ -15,11 +15,11 @@ permalink: /about/
 
 ## Bio
 
-自然言語処理に興味がある国公立大学大学院１年。
+自然言語処理に興味がある国立大学院１年。
 
 ## Certification
 
-- TOEIC® Listening & Reading Test: 825 / 990 (2023/11/19受験)
+- TOEIC® Listening & Reading Test: 825 / 990 (2024/11/17受験)
 
 ## Main Tools
 
