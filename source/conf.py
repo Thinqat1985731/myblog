@@ -13,7 +13,11 @@ author = "Thinqat"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["ablog", "sphinx.ext.intersphinx", "sphinx.ext.githubpages"]
+extensions = [
+    "ablog",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.githubpages",
+]
 
 templates_path = ["_templates"]
 exclude_patterns = []
@@ -23,8 +27,6 @@ language = "ja"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-blog_baseurl = "https://thinqat1985731.github.io/myblog/"
-blog_title = "Thinqat's Blog"
 html_theme = "conestack"
 html_theme_options = {
     "logo_url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png",
