@@ -9,6 +9,7 @@
 project = "Thinqat's Blog"
 copyright = "2025, Thinqat"
 author = "Thinqat"
+html_static_path = ["_static"]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -27,6 +28,8 @@ language = "ja"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
+html_title = "Thinqat's Blog"
+html_favicon = "_static/favicon.ico"
 html_theme = "conestack"
 html_theme_options = {
     "logo_url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png",
