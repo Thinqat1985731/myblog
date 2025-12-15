@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+  <id>https://thinqat1985731.github.io/myblog/</id>
+  <title>Thinqat's Blog</title>
+  <updated>2025-12-15T18:23:59.920903+00:00</updated>
+  <link href="https://thinqat1985731.github.io/myblog/"/>
+  <link href="https://thinqat1985731.github.io/myblog/blog/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.io/" version="0.11.12">ABlog</generator>
+  <entry>
+    <id>https://thinqat1985731.github.io/myblog/posts/katex-test.html</id>
+    <title>Sphinxにおける数式のテスト</title>
+    <updated>2025-12-16T00:00:00+09:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;Sphinxにおける数式がちゃんと機能しているかのテスト。
+以下はなんとなく書いたカルバック・ライブラー発散（KR発散）の式。&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://thinqat1985731.github.io/myblog/posts/katex-test.html"/>
+    <summary>Sphinxにおける数式がちゃんと機能しているかのテスト。
+以下はなんとなく書いたカルバック・ライブラー発散（KR発散）の式。</summary>
+    <category term="Test" label="Test"/>
+    <published>2025-12-16T00:00:00+09:00</published>
+  </entry>
+</feed>
