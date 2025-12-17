@@ -1,7 +1,11 @@
 *.bat linguist-detectable=true
-*.css linguist-detectable=true
-*.html linguist-detectable=true
 *.js linguist-detectable=true
 *.py linguist-detectable=true
+*.css linguist-detectable=true
+*.html linguist-detectable=true
 *.rst linguist-detectable=true
+*.json linguist-detectable=true
+*.toml linguist-detectable=true
+*.xml linguist-detectable=true
 *.svg linguist-detectable=true
+*.lock linguist-generated=true
