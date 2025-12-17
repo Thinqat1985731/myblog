@@ -29,7 +29,7 @@ language = "ja"
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_title = "Thinqat's Blog"
-html_favicon = "_static/favicon.ico"
+html_favicon = "_static/favicon.png"
 html_theme = "conestack"
 html_theme_options = {
     "logo_url": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png",
