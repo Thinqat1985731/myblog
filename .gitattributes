@@ -10,3 +10,4 @@
 *.svg linguist-detectable=true
 *.lock linguist-generated=true
 *.md linguist-generated=true
+*.md linguist-documentation=false
