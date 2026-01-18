@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "ablog>=0.11.12",
+    "myst-parser>=5.0.0",
     "sphinx==8.2.3",
     "sphinx-conestack-theme>=1.1.1",
 ]

@@ -9,7 +9,6 @@
 project = "Thinqat's Blog"
 copyright = "2025, Thinqat"
 author = "Thinqat"
-html_static_path = ["_static"]
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -18,12 +17,27 @@ extensions = [
     "ablog",
     "sphinx.ext.intersphinx",
     "sphinx.ext.githubpages",
+    "myst_parser",
+]
+
+myst_enable_extensions = [
+    "dollarmath",
+    "amsmath",
+    "colon_fence",
+    "deflist",
+    "html_image",
+    "html_admonition",
 ]
 
 templates_path = ["_templates"]
 exclude_patterns = []
 
 language = "ja"
+
+source_suffix = {
+    ".rst": "restructuredtext",
+    ".md": "markdown",
+}
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -38,4 +52,5 @@ html_theme_options = {
     "logo_height": "40px",
     "github_url": "https://github.com/Thinqat1985731?tab=repositories",
 }
+html_static_path = ["_static"]
 post_date_format = "%Y-%m-%d"
