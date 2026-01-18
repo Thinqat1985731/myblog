@@ -6,9 +6,10 @@ Welcome to Thinqat's blog!
 ==========================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    about
+   posts/
 
 Articles
 --------
