@@ -8,7 +8,7 @@ Welcome to Thinqat's blog!
 .. toctree::
    :maxdepth: 2
 
-   about
+   about.md
    posts/
 
 Articles

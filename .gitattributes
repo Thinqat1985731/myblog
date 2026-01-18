@@ -9,3 +9,4 @@
 *.xml linguist-detectable=true
 *.svg linguist-detectable=true
 *.lock linguist-generated=true
+*.md linguist-generated=true
