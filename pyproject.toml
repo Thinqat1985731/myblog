@@ -14,8 +14,8 @@ dependencies = [
 [dependency-groups]
 dev = [
     "mypy>=1.16.0",
+    "isort>=8.0.1",
     "ruff>=0.15.10",
-    "isort>=6.0.1",
 ]
 
 [tool.mypy]
